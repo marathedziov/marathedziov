@@ -11,11 +11,11 @@
 ###
 
 <div align="center">
-  <a>
-     <img src="https://img.shields.io/badge/Instgram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fmaratdziov_%3Figsh%3DcjVxd3RneDczZzZw" height="25" alt="youtube logo"  />
+  <a href="https://www.instagram.com/maratdziov_?igsh=cjVxd3RneDczZzZw" target="_blank">
+     <img src="https://img.shields.io/badge/Instgram-white?style=for-the-badge&logo=instagram" height="25" alt="instagram logo"  />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=vk&link=https%3A%2F%2Fvk.com%2Fmaratdziov" height="25" alt="youtube logo"  />
+  <a href="https://vk.com/maratdziov" target="_blank">
+    <img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=vk" height="25" alt="vk logo"  />
   </a>
   <a href="https://t.me/maratdziov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
