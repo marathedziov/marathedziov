@@ -11,8 +11,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a>
+     <img src="https://img.shields.io/badge/Instgram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fmaratdziov_%3Figsh%3DcjVxd3RneDczZzZw" height="25" alt="youtube logo"  />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=vk&link=https%3A%2F%2Fvk.com%2Fmaratdziov" height="25" alt="youtube logo"  />
   </a>
   <a href="https://t.me/maratdziov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
