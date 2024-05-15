@@ -58,7 +58,7 @@
   <img width="17" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="17" />
-  <img src="sqlite-min.jpg" height="40" alt="Sqlite logo"  />
+  <img src="sqlite-min.png" height="40" alt="Sqlite logo"  />
   <img width="17" />
   <img src="Flask-Dark.svg" height="40" alt="Flask logo"  />
   <img width="17" />
