@@ -11,14 +11,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/maratdziov_?igsh=cjVxd3RneDczZzZw" target="_blank">
-     <img src="https://img.shields.io/badge/Instgram-white?style=for-the-badge&logo=instagram" height="25" alt="instagram logo"  />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-8337cf?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
   </a>
   <a href="https://vk.com/maratdziov" target="_blank">
-    <img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=vk" height="25" alt="vk logo"  />
+    <img src="https://img.shields.io/badge/Vk-e563a2?style=for-the-badge&logo=VK&logoColor=white" height="25" alt="vk logo"  />
   </a>
   <a href="https://t.me/maratdziov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+   <a href="https://www.instagram.com/maratdziov_?igsh=cjVxd3RneDczZzZw" target="_blank">
+     <img src="https://img.shields.io/badge/Instgram-white?style=for-the-badge&logo=instagram" height="25" alt="instagram logo"  />
   </a>
 </div>
 
