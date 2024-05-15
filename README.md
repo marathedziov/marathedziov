@@ -47,16 +47,26 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Языки и Технологии:</h3>
 
 ###
 
 <div align="left">
+  <img src="Windows-Dark.svg" height="40" alt="Windows logo"  />
+  <img width="12" />
+  <img src="PyCharm-Dark.svg" height="40" alt="PyCharm logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="sqlite-min.jpg" height="40" alt="Sqlite logo"  />
+  <img width="12" />
+  <img src="Flask-Dark.svg" height="40" alt="Flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="Bootstrap.svg" height="40" alt="Bootstrap logo"  />
   <img width="12" />
   
 </div>
