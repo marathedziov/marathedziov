@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://discord.gg/xGTPswyv" target="_blank">
     <img src="https://img.shields.io/badge/Discord-8337cf?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
   </a>
   <a href="https://vk.com/maratdziov" target="_blank">
